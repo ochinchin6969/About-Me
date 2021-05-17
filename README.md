@@ -1,18 +1,12 @@
 # lultstalker
 hack kita eh
 
-Use tables to stand out, it will give separate charm to it
-
-Table Syntax is:
-
-Separate each column cell by symbol |
-
-and table header (First row) by 2nd row by ---
+PILI KA
 
 
-| col 1      | col 2      |
+| option 1     | option 2      |
 |------------|-------------|
-| image 1 | image 2 |
+| stalk  | hax |
 
 output
 
