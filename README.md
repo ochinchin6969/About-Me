@@ -10,3 +10,5 @@
 | stalk  | hax |
 
 <img src="https://i.imgflip.com/4js3cm.jpg" width="250"> 
+
+https://myanimelist.net/profile/ochinchinpai6969
